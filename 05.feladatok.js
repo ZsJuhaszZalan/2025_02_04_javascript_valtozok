@@ -13,3 +13,5 @@ let terulets = sugar * sugar * Math.PI
 let kerulets = sugar * 2 * Math.PI
 console.log(`${kerulets} a kör kerülete`)
 console.log(`${terulets} a kör területe`)
+
+
